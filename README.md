@@ -1,5 +1,1 @@
-<h1 align="center">
-	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!;I+am+Legit_Magic;Occasional+Programmer;Engineering+Student&center=true&size=30">
-	</a>
-</h1>
+I'm Collin Dewey and I like to mess with various computing stuff. Specific interests include Docker, Linux, 3DS Homebrew, and Cyber Security. Currently working on getting a degree in Computer Science and Engineering, and am active in my University's ACM Chapter.
