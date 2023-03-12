@@ -7,23 +7,15 @@ I enjoy participating in CTF-style challenges as well as Red Team/Blue Team comp
 *I'm currently seeking an internship in Cyber Security and would love to connect with others who share my interests.*
 
 ### Experience
-
 - ❄️ My Linux NixOS configuration can be found in my [nix-config repo](https://github.com/LegitMagic/nix-config)
-
 - 📦 Experienced with Git, Docker, and Nix
-
 - </> Have used a variety of programming languages, such as C/C++/C#/Java/Swift/Python 3/HTML/CSS/JS
-
 - 📖 Check out my blog at [terascripting.com](https://terascripting.com/)
 
 ### Accomplishments
-
 - 🏅 Placed 24/6679 in the NCL Fall 2022 Individual Game
-
 - 🏅 Placed 91/6480 in the NCL Fall 2021 Individual Game
-
 - 👨‍💻 With a team, made it to the NCCDC Regional Competition twice
-
 - 🦅 Achieved the rank of Eagle Scout
 
 ### Contact me
