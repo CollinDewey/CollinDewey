@@ -33,3 +33,6 @@ I enjoy participating in CTF-style challenges as well as Red Team/Blue Team comp
 - Twitter: [@CollinDew](https://twitter.com/CollinDew)
 - LinkedIn: [in/collinmdewey](https://www.linkedin.com/in/collinmdewey/)
 
+### GitHub Stats
+
+![Collin Dewey's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegitMagic&show_icons=true&theme=transparent)
