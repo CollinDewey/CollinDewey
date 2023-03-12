@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Collin</h1>
 
 I'm a Computer Science student at the University of Louisville's Speed School of Engineering with a passion for Cyber Security.
-I'm actively involved in my school's Cyber Security club and lead the Linux User Group.
+I'm actively involved in my school's Cyber Security club and lead the school's Student Linux User Group.
 I enjoy participating in CTF-style challenges as well as Red Team/Blue Team competitions.
 
 *I'm currently seeking an internship in Cyber Security and would love to connect with others who share my interests.*
