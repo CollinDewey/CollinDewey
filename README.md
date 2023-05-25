@@ -4,8 +4,6 @@ I'm a Computer Science student at the University of Louisville's Speed School of
 I'm actively involved in my school's Cyber Security club and lead the school's Student Linux User Group.
 I enjoy participating in CTF-style challenges as well as Red Team/Blue Team competitions.
 
-*I'm currently seeking an internship in Cyber Security and would love to connect with others who share my interests.*
-
 ### Experience
 - ❄️ My Linux NixOS configuration can be found in my [nix-config repo](https://github.com/LegitMagic/nix-config)
 - 📦 Experienced with Git, Docker, and Nix
