@@ -19,7 +19,6 @@ I enjoy participating in CTF-style challenges as well as Red Team/Blue Team comp
 ### Contact me
 
 - Email: collin (at) terascripting.com
-- Discord: Legit_Magic#9356
 - LinkedIn: [in/collinmdewey](https://www.linkedin.com/in/collinmdewey/)
 
 ### GitHub Stats
