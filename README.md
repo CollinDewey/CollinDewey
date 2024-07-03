@@ -23,6 +23,7 @@ My peers and I have consistently excelled in capture the flag style challenges a
 
 
 ### Accomplishments
+- 🏅 Placed 7 / 7406 in the National Cyber League Spring 2024 Individual Game ([View Report](https://cyberskyline.com/report/A3P98W8NBN5G))
 - 🏅 Placed 17/7879 in the National Cyber League Fall 2023 Individual Game ([View Report](https://cyberskyline.com/report/X61A1YJP1AXG))
 - 🏅 Placed 24/6675 in the National Cyber League Fall 2022 Individual Game ([View Report](https://cyberskyline.com/report/FHXANT5RYA63))
 - 🏅 Placed 91/6480 in the National Cyber League Fall 2021 Individual Game ([View Report](https://cyberskyline.com/report/PJ8CXA11K9DX))
