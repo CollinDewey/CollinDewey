@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Collin</h1>
 
-I am a Computer Science student at the University of Louisville's Speed School of Engineering, and my passion lies in Cybersecurity.
-I have actively engaged in UofL's ACM student chapter, where I lead the Student Linux User Group and spearhead the Cyber Defense Team.
-My peers and I have consistently excelled in capture the flag style challenges and Red Team/Blue Team competitions, putting our knowledge into action.
+I am working on my Masters of Science in Computer Science as well as a Cybersecurity Certificate from the University of Louisville.
+During my time at college I have actively engaged in the university’s ACM student chapter, leading the Student Linux User Group for three years, and the Cyber Defense group for one.
+In Cyber Defense, my peers and I have excelled in Capture the Flag style exercises, as well as Red Team/Blue Team competitions.
 
 ### Experience
 - ❄️ Linux configuration located in a [nix-config repo](https://github.com/CollinDewey/nix-config)
