@@ -23,6 +23,7 @@ In Cyber Defense, my peers and I have excelled in Capture the Flag style exercis
 
 
 ### Accomplishments
+- 🏅 Placed 15 / 688 in the National Cyber League Fall 2024 Individual Game Experienced Students Bracket
 - 🏅 Placed 7 / 7406 in the National Cyber League Spring 2024 Individual Game ([View Report](https://cyberskyline.com/report/A3P98W8NBN5G))
 - 🏅 Placed 17/7879 in the National Cyber League Fall 2023 Individual Game ([View Report](https://cyberskyline.com/report/X61A1YJP1AXG))
 - 🏅 Placed 24/6675 in the National Cyber League Fall 2022 Individual Game ([View Report](https://cyberskyline.com/report/FHXANT5RYA63))
