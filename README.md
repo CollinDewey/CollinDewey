@@ -10,7 +10,7 @@ In Cyber Defense, my peers and I have excelled in Capture the Flag style exercis
 - 🐧 Familiar with different Operating Systems at a deep level
 - 📖 Personal blog at [collindewey.net](https://collindewey.net/)
 - </> Experienced in a variety of Cyber Security Tools and Programming/Scripting Languages
-<details><summary>Tools/Languages (Click to Expand List)</summary>
+<details><summary>Tools/Languages (Click to View)</summary>
 
   - Programming: C, C++, Java, Python 3, Javascript, SQL
   - Scripting: Bash/Zsh, Powershell, Lua
@@ -23,13 +23,26 @@ In Cyber Defense, my peers and I have excelled in Capture the Flag style exercis
 
 
 ### Accomplishments
-- 🏅 Placed 15/688 in the National Cyber League Fall 2024 Individual Game Experienced Students Bracket ([View Report](https://cyberskyline.com/report/FKN90NBBE9V7))
-- 🏅 Placed 7/7406 in the National Cyber League Spring 2024 Individual Game ([View Report](https://cyberskyline.com/report/A3P98W8NBN5G))
-- 🏅 Placed 17/7879 in the National Cyber League Fall 2023 Individual Game ([View Report](https://cyberskyline.com/report/X61A1YJP1AXG))
-- 🏅 Placed 24/6675 in the National Cyber League Fall 2022 Individual Game ([View Report](https://cyberskyline.com/report/FHXANT5RYA63))
-- 🏅 Placed 91/6480 in the National Cyber League Fall 2021 Individual Game ([View Report](https://cyberskyline.com/report/PJ8CXA11K9DX))
-- 🏅 With a team, placed 11/4672 in the National Cyber League Fall 2023 Team Game ([View Report](https://cyberskyline.com/report/48E67EVGQT6C))
-- 🏅 With a team, placed 12/534 in the National Cyber League Spring 2024 Team Game Experienced Students Bracket ([View Report](https://cyberskyline.com/report/7HNVVVPFXCQ8))
+
+<details>
+  <summary>🏅 Top <a href="https://cyberskyline.com/events/ncl/info">National Cyber League</a> CTF Competitor (Click to View Scores)</summary>
+  <ul>
+    <b>Individual:</b>
+    <li>3<sup>rd</sup> / 602 - Spring 2025 (Experienced Division)</li>
+    <li>15<sup>th</sup> / 688 - <a href="https://cyberskyline.com/report/FKN90NBBE9V7">Fall 2024</a> (Experienced Division)</li>
+    <li>7<sup>th</sup> / 7406 - <a href="https://cyberskyline.com/report/A3P98W8NBN5G">Spring 2024</a></li>
+    <li>17<sup>th</sup> / 7879 - <a href="https://cyberskyline.com/report/X61A1YJP1AXG">Fall 2023</a></li>
+    <li>24<sup>th</sup> / 6675 - <a href="https://cyberskyline.com/report/FHXANT5RYA63">Fall 2022</a></li>
+    <li>91<sup>st</sup> / 6480 - <a href="https://cyberskyline.com/report/PJ8CXA11K9DX">Fall 2021</a></li>
+  </ul>
+  <ul>
+    <b>Team:</b>
+    <li>12<sup>th</sup> / 534 - <a href="https://cyberskyline.com/report/7HNVVVPFXCQ8">Spring 2024</a> (Experienced Division)</li>
+    <li>11<sup>th</sup> / 4672 - <a href="https://cyberskyline.com/report/48E67EVGQT6C">Fall 2023</a></li>
+  </ul>
+</details>
+
+- 🎩 [Jersey CTF](https://jerseyctf.com/) - Third Place in the Scholarship for Service Division
 - 👨‍💻 With a team, made it to the [National Collegiate Cyber Defense Competition](https://www.nationalccdc.org/) Regional Competition in 2022 and 2023
 - 🏆 University of Louisville [Raymond I. Fields Award](https://web.archive.org/web/20230522163630/https://engineering.louisville.edu/about/ourstudents/honorsawards/) recipient
 - 🦅 Achieved the rank of Eagle Scout
