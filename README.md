@@ -42,7 +42,7 @@ In Cyber Defense, my peers and I have excelled in Capture the Flag style exercis
   </ul>
 </details>
 
-- 🎩 [Jersey CTF](https://jerseyctf.com/) - Third Place in the Scholarship for Service Division
+- 🎩 [Jersey CTF](https://jerseyctf.com/) - Second Place in the Scholarship for Service Division
 - 👨‍💻 With a team, made it to the [National Collegiate Cyber Defense Competition](https://www.nationalccdc.org/) Regional Competition in 2022 and 2023
 - 🏆 University of Louisville [Raymond I. Fields Award](https://web.archive.org/web/20230522163630/https://engineering.louisville.edu/about/ourstudents/honorsawards/) recipient
 - 🦅 Achieved the rank of Eagle Scout
